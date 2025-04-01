@@ -1,4 +1,0 @@
-flask
-flask-httpauth
-werkzeug
-gunicorn
